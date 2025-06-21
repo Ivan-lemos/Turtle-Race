@@ -1,0 +1,4 @@
+Understanding the Turtle Coordinate System
+In this lesson, we are going to build out our turtle race. Through building this race, we will become more familiar with the concepts of state and instance
+
+This is our goal: at the beginning, a popup will ask us to bet on who will win the race by choosing a color. The turtles are colored like the rainbow. After selecting a color and hitting okay, all turtles line up at the starting position and start making random steps towards the right edge of the screen. The first turtle to cross the right edge wins. Once a turtle crosses the finish line, the program prints whether we won or lost our bet and which turtle won the game.s because we need to create multiple turtles to join our race.
